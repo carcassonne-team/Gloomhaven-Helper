@@ -13,44 +13,16 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1bfe2660-4901-4ebf-b13f-f5b8cec9d1a9" name="Default Changelist" comment="xml's fix, add few ui tests">
-      <change beforePath="$PROJECT_DIR$/GloomhavenHelper/app/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GloomhavenHelper/app/proguard-rules.pro" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GloomhavenHelper/app/src/androidTest/java/com/carcassonneteam/gloomhavenhelper/ExampleInstrumentedTest.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GloomhavenHelper/app/src/main/AndroidManifest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GloomhavenHelper/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GloomhavenHelper/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GloomhavenHelper/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GloomhavenHelper/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GloomhavenHelper/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GloomhavenHelper/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GloomhavenHelper/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GloomhavenHelper/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GloomhavenHelper/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GloomhavenHelper/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GloomhavenHelper/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GloomhavenHelper/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GloomhavenHelper/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GloomhavenHelper/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GloomhavenHelper/app/src/main/res/values-night/themes.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GloomhavenHelper/app/src/main/res/values/colors.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GloomhavenHelper/app/src/main/res/values/strings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GloomhavenHelper/app/src/main/res/values/themes.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GloomhavenHelper/app/src/test/java/com/carcassonneteam/gloomhavenhelper/ExampleUnitTest.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GloomhavenHelper/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GloomhavenHelper/gradle.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GloomhavenHelper/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GloomhavenHelper/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GloomhavenHelper/gradlew" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GloomhavenHelper/gradlew.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GloomhavenHelper/local.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GloomhavenHelper/settings.gradle" beforeDir="false" />
+    <list default="true" id="1bfe2660-4901-4ebf-b13f-f5b8cec9d1a9" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[VirtualDevicePath@C:\Users\Andrzej\.android\avd\Pixel_4_API_30.avd]" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
@@ -109,7 +81,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="android-custom-viewD:/Android/sources/android-30/android/widget/ImageView.java_SELECTED" value="ImageView" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Nowy folder/GloomhavenHelper" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.17" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -414,12 +386,20 @@
       <option name="project" value="LOCAL" />
       <updated>1635276649812</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="init">
+      <created>1635323992865</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1635323992866</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="xml's fix, add few ui tests" />
-    <option name="LAST_COMMIT_MESSAGE" value="xml's fix, add few ui tests" />
+    <MESSAGE value="init" />
+    <option name="LAST_COMMIT_MESSAGE" value="init" />
   </component>
   <component name="WindowStateProjectService">
     <state x="-1443" y="266" key="#PSD" timestamp="1635323831779">
@@ -456,14 +436,15 @@
     </state>
     <state x="-1116" y="309" key="AndroidCreateXmlResourceDialog/-1920.0.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1633776560461" />
     <state x="804" y="309" key="AndroidCreateXmlResourceDialog/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1635267348393" />
-    <state x="434" y="126" key="CommitChangelistDialog2" timestamp="1635277196733">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="434" y="126" key="CommitChangelistDialog2/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1635277196733" />
-    <state x="-1660" y="278" key="FileChooserDialogImpl" timestamp="1635323729020">
+    <state x="-1486" y="126" key="CommitChangelistDialog2" timestamp="1635323991169">
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
-    <state x="-1660" y="278" key="FileChooserDialogImpl/-1920.0.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1635323729020" />
+    <state x="-1486" y="126" key="CommitChangelistDialog2/-1920.0.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1635323991169" />
+    <state x="434" y="126" key="CommitChangelistDialog2/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1635277196733" />
+    <state x="-1660" y="278" key="FileChooserDialogImpl" timestamp="1635324024208">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1660" y="278" key="FileChooserDialogImpl/-1920.0.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1635324024208" />
     <state x="260" y="278" key="FileChooserDialogImpl/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1635275511811" />
     <state width="1877" height="308" key="GridCell.Tab.0.bottom" timestamp="1635277987266">
       <screen x="0" y="0" width="1920" height="1040" />
@@ -489,9 +470,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="0" y="164" key="SettingsEditor/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1633954146934" />
-    <state x="697" y="22" key="Vcs.Push.Dialog.v2" timestamp="1635277326140">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="-1223" y="22" key="Vcs.Push.Dialog.v2" timestamp="1635323994212">
+      <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
+    <state x="-1223" y="22" key="Vcs.Push.Dialog.v2/-1920.0.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1635323994212" />
     <state x="697" y="22" key="Vcs.Push.Dialog.v2/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1635277326140" />
     <state x="92" y="25" width="1736" height="848" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1633697829295">
       <screen x="0" y="0" width="1920" height="1040" />
