@@ -1,3 +1,27 @@
 <resources>
-    <string name="app_name">GloomhavenHelper</string>
+    <string name="app_name">Gloomhaven Helper</string>
+    <string name="items_title">Przedmioty</string>
+
+    <string name="items_one_handed">Jednoręczny</string>
+    <string name="items_two_handed">Dwuręczny</string>
+    <string name="items_helmet">Hełm</string>
+    <string name="items_torso">Tors</string>
+    <string name="items_legs">Nogi</string>
+    <string name="items_small_item">Mały przedmiot</string>
+
+    <string name="items_state_rotated">Obracany</string>
+    <string name="items_state_discarded">Odrzucany</string>
+    <string name="items_state_passive">Pasywny</string>
+
+    <string name="error_note">Wypełnij wszystkie dane</string>
+    <string name="items">Przedmioty</string>
+    <string name="save">Zapisz</string>
+    <string name="reputation">Reputacja</string>
+    <string name="party_name">Nazwa drużyny</string>
+    <string name="choose_picture">Wybierz obraz</string>
+    <string name="parties">Drużyny</string>
+    <string name="character_name">Nazwa Postaci</string>
+    <string name="choose_character_picture">Wybierz obraz postaci</string>
+    <string name="player_name">Nazwa gracza</string>
+    <string name="use">Użycie:</string>
 </resources>
