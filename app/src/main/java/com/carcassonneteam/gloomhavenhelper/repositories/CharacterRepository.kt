@@ -1,4 +1,4 @@
-package com.carcassonneteam.gloomhavenhelper.repositoriese
+package com.carcassonneteam.gloomhavenhelper.repositories
 
 import android.app.Application
 import android.util.Log

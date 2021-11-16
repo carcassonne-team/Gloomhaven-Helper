@@ -4,7 +4,7 @@ import android.app.Application
 import android.util.Log
 import androidx.lifecycle.MutableLiveData
 import com.carcassonneteam.gloomhavenhelper.database.PlayerDatabase
-import com.carcassonneteam.gloomhavenhelper.dao.PlayerDao
+import com.carcassonneteam.gloomhavenhelper.database.dao.PlayerDao
 import com.carcassonneteam.gloomhavenhelper.models.Player
 import io.reactivex.Completable
 import io.reactivex.CompletableObserver

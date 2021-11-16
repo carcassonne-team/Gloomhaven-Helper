@@ -14,15 +14,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1bfe2660-4901-4ebf-b13f-f5b8cec9d1a9" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/app/GloomhavenHelper.app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/app/GloomhavenHelper.app.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/carcassonneteam/gloomhavenhelper/database/PalyerDatabase.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/carcassonneteam/gloomhavenhelper/database/PalyerDatabase.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/carcassonneteam/gloomhavenhelper/database/dao/CharacterDao.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/carcassonneteam/gloomhavenhelper/database/dao/CharacterDao.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/carcassonneteam/gloomhavenhelper/database/dao/PartyDao.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/carcassonneteam/gloomhavenhelper/database/dao/PartyDao.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/carcassonneteam/gloomhavenhelper/database/dao/PlayerDao.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/carcassonneteam/gloomhavenhelper/database/dao/PlayerDao.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/carcassonneteam/gloomhavenhelper/models/Character.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/carcassonneteam/gloomhavenhelper/models/Character.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/carcassonneteam/gloomhavenhelper/models/Clazz.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/carcassonneteam/gloomhavenhelper/models/Clazz.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/carcassonneteam/gloomhavenhelper/models/Dungeon.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/carcassonneteam/gloomhavenhelper/models/Dungeon.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/carcassonneteam/gloomhavenhelper/models/Item.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/carcassonneteam/gloomhavenhelper/models/Item.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/carcassonneteam/gloomhavenhelper/models/Party.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/carcassonneteam/gloomhavenhelper/models/Party.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/carcassonneteam/gloomhavenhelper/models/Player.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/carcassonneteam/gloomhavenhelper/models/Player.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[VirtualDevicePath@C:\Users\Andrzej\.android\avd\Pixel_4_API_30.avd]" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
@@ -68,6 +77,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1z7p4fmFrRvfcIySTt0iGJXdJK1" />
@@ -409,14 +423,22 @@
       <option name="project" value="LOCAL" />
       <updated>1635497102361</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="add database">
+      <created>1636965652059</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1636965652059</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="xml's fix, add few ui tests" />
     <MESSAGE value="init" />
     <MESSAGE value="update build.gradle and add gitignore" />
-    <option name="LAST_COMMIT_MESSAGE" value="update build.gradle and add gitignore" />
+    <MESSAGE value="add database" />
+    <option name="LAST_COMMIT_MESSAGE" value="add database" />
   </component>
   <component name="WindowStateProjectService">
     <state x="-1443" y="266" key="#PSD" timestamp="1635323831779">
@@ -453,10 +475,10 @@
     </state>
     <state x="-1116" y="309" key="AndroidCreateXmlResourceDialog/-1920.0.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1633776560461" />
     <state x="804" y="309" key="AndroidCreateXmlResourceDialog/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1635267348393" />
-    <state x="434" y="126" key="CommitChangelistDialog2" timestamp="1635497101483">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="-1213" y="82" key="CommitChangelistDialog2" timestamp="1636965650540">
+      <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
-    <state x="-1486" y="126" key="CommitChangelistDialog2/-1920.0.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1635324255092" />
+    <state x="-1213" y="82" key="CommitChangelistDialog2/-1920.0.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1636965650540" />
     <state x="434" y="126" key="CommitChangelistDialog2/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1635497101483" />
     <state x="-1660" y="278" key="FileChooserDialogImpl" timestamp="1635324024208">
       <screen x="-1920" y="0" width="1920" height="1040" />
@@ -487,15 +509,19 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="0" y="164" key="SettingsEditor/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1633954146934" />
-    <state x="697" y="22" key="Vcs.Push.Dialog.v2" timestamp="1635497257995">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="-1223" y="22" key="Vcs.Push.Dialog.v2" timestamp="1636965654879">
+      <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
-    <state x="-1223" y="22" key="Vcs.Push.Dialog.v2/-1920.0.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1635324270569" />
+    <state x="-1223" y="22" key="Vcs.Push.Dialog.v2/-1920.0.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1636965654879" />
     <state x="697" y="22" key="Vcs.Push.Dialog.v2/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1635497257995" />
     <state x="92" y="25" width="1736" height="848" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1633697829295">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="92" y="25" width="1736" height="848" key="com.intellij.history.integration.ui.views.FileHistoryDialog/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1633697829295" />
+    <state x="-1143" y="433" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1637068737066">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1143" y="433" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/-1920.0.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1637068737066" />
     <state x="-7" y="0" width="974" height="1047" key="dock-window-1" timestamp="1633954749484">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

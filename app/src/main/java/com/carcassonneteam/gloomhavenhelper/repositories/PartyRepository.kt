@@ -1,4 +1,4 @@
-package com.carcassonneteam.gloomhavenhelper.repositoriese
+package com.carcassonneteam.gloomhavenhelper.repositories
 
 import android.app.Application
 import android.util.Log
@@ -6,6 +6,7 @@ import androidx.lifecycle.MutableLiveData
 import com.carcassonneteam.gloomhavenhelper.database.PlayerDatabase
 import com.carcassonneteam.gloomhavenhelper.database.dao.PartyDao
 import com.carcassonneteam.gloomhavenhelper.models.Party
+import com.carcassonneteam.gloomhavenhelper.repositoriese.PlayerRepository
 import io.reactivex.Completable
 import io.reactivex.CompletableObserver
 import io.reactivex.Flowable

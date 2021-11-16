@@ -7,9 +7,9 @@ import androidx.room.RoomDatabase
 import com.carcassonneteam.gloomhavenhelper.database.dao.CharacterDao
 import com.carcassonneteam.gloomhavenhelper.database.dao.PartyDao
 import com.carcassonneteam.gloomhavenhelper.database.dao.PlayerDao
-import gloomhaven.gloomhavenhelper.models.Character
-import gloomhaven.gloomhavenhelper.models.Party
-import gloomhaven.gloomhavenhelper.models.Player
+import com.carcassonneteam.gloomhavenhelper.models.Character
+import com.carcassonneteam.gloomhavenhelper.models.Party
+import com.carcassonneteam.gloomhavenhelper.models.Player
 
 @Database(
     entities = [Party::class, Player::class, Character::class],

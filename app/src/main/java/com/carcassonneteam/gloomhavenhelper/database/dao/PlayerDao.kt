@@ -5,7 +5,7 @@ import androidx.room.Delete
 import androidx.room.Insert
 import androidx.room.Query
 import androidx.room.Update
-import gloomhaven.gloomhavenhelper.models.Player
+import com.carcassonneteam.gloomhavenhelper.models.Player
 import io.reactivex.Flowable
 
 @Dao

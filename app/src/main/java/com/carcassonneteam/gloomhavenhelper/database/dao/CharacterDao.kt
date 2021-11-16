@@ -5,7 +5,7 @@ import androidx.room.Delete
 import androidx.room.Insert
 import androidx.room.Query
 import androidx.room.Update
-import gloomhaven.gloomhavenhelper.models.Character
+import com.carcassonneteam.gloomhavenhelper.models.Character
 import io.reactivex.Flowable
 
 

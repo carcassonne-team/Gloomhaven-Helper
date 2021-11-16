@@ -1,4 +1,4 @@
-package gloomhaven.gloomhavenhelper.models
+package com.carcassonneteam.gloomhavenhelper.models
 
 class Item {
     private var id: String = ""
