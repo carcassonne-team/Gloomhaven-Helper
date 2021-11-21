@@ -1,4 +1,4 @@
-package gloomhaven.gloomhavenhelper.views
+package com.carcassonneteam.gloomhavenhelper.views
 
 import android.Manifest
 import android.app.Activity
@@ -24,9 +24,9 @@ import com.google.android.material.card.MaterialCardView
 import com.google.android.material.dialog.MaterialAlertDialogBuilder
 import com.google.android.material.snackbar.Snackbar
 import com.vanniktech.rxpermission.RealRxPermission
-import gloomhaven.gloomhavenhelper.R
-import gloomhaven.gloomhavenhelper.models.Character
+import com.carcassonneteam.gloomhavenhelper.R
 import gloomhaven.gloomhavenhelper.utils.DataConverter
+import com.carcassonneteam.gloomhavenhelper.models.Character
 import java.io.File
 import java.io.IOException
 

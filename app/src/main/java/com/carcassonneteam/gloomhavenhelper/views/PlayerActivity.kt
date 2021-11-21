@@ -1,4 +1,4 @@
-package gloomhaven.gloomhavenhelper.views
+package com.carcassonneteam.gloomhavenhelper.views
 
 import android.content.Intent
 import android.os.Bundle
@@ -15,10 +15,10 @@ import androidx.recyclerview.widget.GridLayoutManager
 import androidx.recyclerview.widget.ItemTouchHelper
 import androidx.recyclerview.widget.RecyclerView
 import com.google.android.material.floatingactionbutton.FloatingActionButton
-import gloomhaven.gloomhavenhelper.R
-import gloomhaven.gloomhavenhelper.adapters.PlayerAdapter
-import gloomhaven.gloomhavenhelper.models.Player
-import gloomhaven.gloomhavenhelper.viewmodels.PlayerActivityViewModel
+import com.carcassonneteam.gloomhavenhelper.R
+import com.carcassonneteam.gloomhavenhelper.adapters.PlayerAdapter
+import com.carcassonneteam.gloomhavenhelper.models.Player
+import com.carcassonneteam.gloomhavenhelper.viewmodels.PlayerActivityViewModel
 import io.reactivex.android.schedulers.AndroidSchedulers
 import io.reactivex.disposables.CompositeDisposable
 import io.reactivex.disposables.Disposable

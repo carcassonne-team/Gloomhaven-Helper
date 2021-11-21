@@ -1,4 +1,4 @@
-package gloomhaven.gloomhavenhelper.views
+package com.carcassonneteam.gloomhavenhelper.views
 
 import android.os.Bundle
 import android.util.Log
@@ -14,10 +14,10 @@ import androidx.recyclerview.widget.GridLayoutManager
 import androidx.recyclerview.widget.ItemTouchHelper
 import androidx.recyclerview.widget.RecyclerView
 import com.google.android.material.floatingactionbutton.FloatingActionButton
-import gloomhaven.gloomhavenhelper.R
-import gloomhaven.gloomhavenhelper.adapters.CharacterAdapter
-import gloomhaven.gloomhavenhelper.models.Character
-import gloomhaven.gloomhavenhelper.viewmodels.CharacterViewModel
+import com.carcassonneteam.gloomhavenhelper.R
+import com.carcassonneteam.gloomhavenhelper.adapters.CharacterAdapter
+import com.carcassonneteam.gloomhavenhelper.viewmodels.CharacterViewModel
+import com.carcassonneteam.gloomhavenhelper.models.Character
 import io.reactivex.android.schedulers.AndroidSchedulers
 import io.reactivex.disposables.CompositeDisposable
 import io.reactivex.disposables.Disposable
@@ -134,7 +134,7 @@ class CharacterActivity : AppCompatActivity(),
     }
 
    override fun saveNewCharacter(character: Character) {
-        character.setPlayerId(playerId.toString())
-        characterViewModel.insert(character)
-    }
+       character.setPlayerId(playerId.toString())
+       characterViewModel.insert(character)
+   }
 }

@@ -1,4 +1,4 @@
-package gloomhaven.gloomhavenhelper.views
+package com.carcassonneteam.gloomhavenhelper.views
 
 import android.app.Activity
 import android.app.Dialog
@@ -20,8 +20,8 @@ import androidx.appcompat.app.AppCompatActivity
 import androidx.appcompat.app.AppCompatDialogFragment
 import com.google.android.material.card.MaterialCardView
 import com.google.android.material.dialog.MaterialAlertDialogBuilder
-import gloomhaven.gloomhavenhelper.R
-import gloomhaven.gloomhavenhelper.models.Player
+import com.carcassonneteam.gloomhavenhelper.R
+import com.carcassonneteam.gloomhavenhelper.models.Player
 import gloomhaven.gloomhavenhelper.utils.DataConverter
 import java.io.File
 import java.io.IOException

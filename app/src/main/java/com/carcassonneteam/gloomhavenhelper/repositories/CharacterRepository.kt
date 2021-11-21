@@ -42,7 +42,7 @@ class CharacterRepository(application: Application) {
 
                 override fun onComplete() {
                     Log.d(tag, "onComplete: Called")
-                    isLoading.setValue(false)
+                    isLoading.value = false
                 }
 
                 override fun onError(e: Throwable) {
