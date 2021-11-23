@@ -47,7 +47,7 @@ class CharacterAdapter(
         var clazzView: TextView
 
         init {
-            titleView = itemView.findViewById(R.id.player_name)
+            titleView = itemView.findViewById(R.id.character_name)
             imageView = itemView.findViewById(R.id.party_image)
             clazzView = itemView.findViewById(R.id.class_name)
         }
